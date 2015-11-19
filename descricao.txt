@@ -1,0 +1,1 @@
+﻿dsdsfsdfDada uma grade, formada de triangulos menores, 3 pontos são escolhidos em seu bordo. Você saberia calcular a área deste triângulo?
